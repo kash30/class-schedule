@@ -1,0 +1,39 @@
+---
+title: "Markdown Class Schedule"
+author: "Kashish Gujral"
+date: "September 11, 2020"
+output:
+  html_document:
+    df_print: paged
+  html_notebook:
+    fig_height: 3
+    fig_width: 5
+---
+
+
+### IST210 - ORGANISATION OF DATA
+
+IST 210 brings databases to life with a unique approach that focuses not only on constructing databases and using database tools, but also the implications of data uses and issues. This is an introductory course used to teach the fundamentals and basic principles of databases and their related technologies. Throughout this course, students will explore the areas that are fundamental to the design, development, and implementation of enterprise wide information systems. Throughout their exploration, students will develop an understanding of the social, ethical, and legal issues surrounding such implementations.
+
+![](https://image.shutterstock.com/image-vector/data-center-cryptocurrency-market-large-600w-1085839421.jpg)
+
+### STAT 414: INTRODUCTION TO PROBABILITY
+
+This course introduces the fundamentals and axioms of probability theory. Topics covered include: combinatorial probability, the laws of probability, conditional probability and independence, Bayes' Theorem, random variables, expectation, Gambler's Ruin, Chebyshev's inequality, Laws of Large Numbers, and the Central Limit Theorem. Applications to a variety of fields will be explored.	
+
+During the course, we will monitor the New York Times(https://www.nytimes.com/) and Centre Daily Times (https://www.centredaily.com/)newspapers for articles involving applications of probability. We will study the probabilistic information in such articles and relate them to the subject of the course and to our everyday lives and experiences.
+
+![](https://image.shutterstock.com/image-photo/businessman-investment-consultant-analyzing-company-600w-1413392699.jpg)
+
+
+
+### DS 220: DATA MMANAGEMENT
+
+Big Data is here to stay and getting bigger. The way people handle that data is changing rapidly. A key to being able to take full advantage of big data is to be able to clean and manage it properly so that it can be timely, available, and useful.
+
+Across the world, throughout a variety of industries, new suites of tools are being developed and used to manage and store data as an engine for data science. This course will explore the fundamentals of those tools. 
+
+![](https://knowledge.wharton.upenn.edu/wp-content/uploads/2020/05/Women-in-data-science.jpg)
+
+
+
